@@ -4,8 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-calegari/)
 
 
-![IanCalegari GitHub stats](https://github-readme-stats.vercel.app/api?username=iancalegari&show_icons=true&theme=tokyonight)
-
 ### Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>

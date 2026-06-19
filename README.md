@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Ian Calegari 🖐️
 
 [![Behance](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/iancalegari)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-calegari/)
+
 
 
 ### Tecnologias que utilizo
